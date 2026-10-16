@@ -1,0 +1,10 @@
+checkpoints/
+__pycache__/
+*.pyc
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+*.png
+!sample_engine.png
